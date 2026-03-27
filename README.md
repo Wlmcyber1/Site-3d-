@@ -14,6 +14,7 @@ Interatividade: Botões com efeitos de hover e animações de entrada.
 
 
 🛠️ Tecnologias e Bibliotecas
+
 HTML5 & CSS3: Estruturação e estilização avançada com Flexbox e Keyframes.
 
 Spline: Integração de um modelo 3D interativo de robô diretamente no navegador.
